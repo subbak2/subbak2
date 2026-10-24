@@ -1,4 +1,4 @@
-### Hi, I'm SubCoding 👋
+### Hi, I'm Jack Park 👋
 
 Developer in Seoul. I build small macOS menu bar apps that each fix one annoying thing, and write about the tools I actually use.
 
