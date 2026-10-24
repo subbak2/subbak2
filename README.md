@@ -1,8 +1,8 @@
 ### Hi, I'm Jack Park 👋
 
-Developer in Seoul. I build small macOS menu bar apps that each fix one annoying thing, and write about the tools I actually use.
+Software & DB engineer in Seoul. By day I build DBaaS on a cloud platform; on the side I make small macOS menu bar apps that each fix one annoying thing, and write about the tools I actually use.
 
-맥에서 불편한 것 하나를 고치는 작은 앱을 만들고, 직접 써 본 개발 도구 이야기를 씁니다.
+클라우드 DBaaS를 만드는 소프트웨어·DB 엔지니어입니다. 퇴근 후에는 맥에서 불편한 것 하나를 고치는 작은 앱을 만들고, 직접 써 본 도구 이야기를 씁니다.
 
 **Every app here:** free · open source · no network access · no analytics · menu bar only
 
@@ -17,24 +17,41 @@ Developer in Seoul. I build small macOS menu bar apps that each fix one annoying
 
 Both are a few hundred lines of Swift you can read in one sitting, with measured CPU/GPU numbers and a "what can go wrong" section in each README.
 
-#### ✍️ Writing & video
+#### 💼 Experience
+
+| | |
+|---|---|
+| **Samsung SDS** · DBaaS Engineer<br><sub>2024.06 – present</sub> | OpenSearch & Elasticsearch DBaaS on Samsung Cloud Platform: automated provisioning, scaling and monitoring, control plane and platform architecture |
+| **Samsung Card** · DBA<br><sub>2020.04 – 2024.05</sub> | Enterprise Oracle for financial systems: SQL tuning, logical design, storage optimization, high availability, monitoring |
+| **Samsung Card** · Backend Developer<br><sub>2019.03 – 2020.03</sub> | Java/Spring backend; in-house SW algorithm instructor (C++, Java); GDC project architect with CMC Global (Vietnam) |
+| **SCSA** 11th<br><sub>2018.07 – 2018.12</sub> | Samsung Software Convergence Academy; PM of a web & Android app (Spring, Android, AWS) |
+
+#### ✍️ Writing, video & links
 
 [![Tistory](https://img.shields.io/badge/Tistory-subbak2-EB531F?style=flat-square)](https://subbak2.tistory.com)
 [![Naver Blog](https://img.shields.io/badge/Naver%20Blog-subcoding-03C75A?style=flat-square&logo=naver&logoColor=white)](https://blog.naver.com/subcoding)
 [![YouTube](https://img.shields.io/badge/YouTube-SubCoding-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@SubCodingChannel)
+[![simplelife](https://img.shields.io/badge/simplelife.ai.kr-SubCoding-4A5568?style=flat-square)](https://simplelife.ai.kr/author/subcoding/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-subbak2-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subbak2/)
 
 Dev tools, AI tools, gear I paid for myself. No sponsorships.
 
 #### 🛠 Tech
 
-![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+**Data** ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=flat-square&logo=opensearch&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+
+**Backend** ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-#### 📚 Learning in public
-
-[**TIL**](https://github.com/subbak2/TIL): what I learned, since 2018 (algorithms, Java, Spring, web).
+**Ops** ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white)
