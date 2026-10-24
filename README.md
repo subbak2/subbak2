@@ -4,13 +4,13 @@ Software & DB engineer in Seoul. By day I build PostgreSQL DBaaS on a cloud plat
 
 클라우드 PostgreSQL DBaaS를 만드는 소프트웨어·DB 엔지니어입니다. 퇴근 후에는 맥에서 불편한 것 하나를 고치는 작은 앱을 만들고, 직접 써 본 도구 이야기를 씁니다.
 
-**Every app here:** free · open source · no network access · no analytics · menu bar only
+**Every Mac app here:** free · open source · no network access · no analytics · menu bar only
 
 ---
 
 #### 🤖 Having fun with AI
 
-My side projects run on a small AI crew: **Claude** (Claude Code) writes and ships the code, **Gemini** does the research, and **Codex** gives a second-opinion review before anything touches real data. Both Mac apps below were built this way.
+My side projects run on a small AI crew: **Claude** (Claude Code) writes and ships the code, **Gemini** does the research, and **Codex** gives a second-opinion review before anything touches real data. Everything below was built this way.
 
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
@@ -26,6 +26,14 @@ Exploring next: AI video and music with ![Higgsfield](https://img.shields.io/bad
 | [**ScrollSplit**](https://github.com/subbak2/ScrollSplit) | Natural scrolling on the trackpad, regular scrolling on the mouse, at the same time | [Download](https://github.com/subbak2/ScrollSplit/releases/latest) · [한국어](https://github.com/subbak2/ScrollSplit/blob/main/docs/manual-ko.md) |
 
 Both are a few hundred lines of Swift you can read in one sitting, with measured CPU/GPU numbers and a "what can go wrong" section in each README.
+
+#### 🐘 Ops tools
+
+| Tool | What it does | |
+|---|---|---|
+| [**php-docker-hotpatch**](https://github.com/subbak2/php-docker-hotpatch) | Patch PHP in Docker WordPress/PHP containers before the official images catch up. Rebuilds from the docker-library build files with only the PHP version bumped, no prebuilt binaries | [한국어](https://github.com/subbak2/php-docker-hotpatch/blob/main/docs/manual-ko.md) |
+
+Born from patching a production WordPress site during PHP2Shell (CVE-2026-109618/109619): PHP 8.3.36 was out while the official image was still on 8.3.35, and the rebuilt image was live 91 minutes later.
 
 #### 💼 Experience
 
