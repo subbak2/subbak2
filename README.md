@@ -33,7 +33,7 @@ Both are a few hundred lines of Swift you can read in one sitting, with measured
 |---|---|---|
 | [**php-docker-hotpatch**](https://github.com/subbak2/php-docker-hotpatch) | Patch PHP in Docker WordPress/PHP containers before the official images catch up. Rebuilds from the docker-library build files with only the PHP version bumped, no prebuilt binaries | [한국어](https://github.com/subbak2/php-docker-hotpatch/blob/main/docs/manual-ko.md) |
 
-Born from patching a production WordPress site during PHP2Shell (CVE-2026-109618/109619): PHP 8.3.36 was out while the official image was still on 8.3.35, and the rebuilt image was live 91 minutes later.
+Born from patching a production WordPress site during PHP2Shell (CVE-2026-109618/109619): PHP 8.3.36 was out while the official image was still on 8.3.35, and the rebuilt image was live 91 minutes later ([write-up, Korean](https://subbak2.tistory.com/217)).
 
 #### 💼 Experience
 
