@@ -27,9 +27,6 @@ Both are a few hundred lines of Swift you can read in one sitting, with measured
 | **DBA**, on-site at Samsung Card<br><sub>2020.04 – 2024.05</sub> | Enterprise Oracle for the client's financial systems: SQL tuning, logical design, storage optimization, high availability, monitoring |
 | **Backend Developer**, on-site at Samsung Card<br><sub>2019.03 – 2020.03</sub> | Java/Spring backend for the client; in-house SW algorithm instructor (C++, Java); GDC project architect with CMC Global (Vietnam) |
 
-**SCSA** 11th, Samsung Software Convergence Academy · 2018.07 – 2018.12<br>
-PM of a web & Android app (Spring, Android, AWS)
-
 #### ✍️ Writing, video & links
 
 [![Tistory](https://img.shields.io/badge/Tistory-subbak2-EB531F?style=flat-square)](https://subbak2.tistory.com)
