@@ -37,6 +37,8 @@ Both are a few hundred lines of Swift you can read in one sitting, with measured
 
 Dev tools, AI tools, gear I paid for myself. No sponsorships.
 
+Code from the videos: [**SubCoding**](https://github.com/subbak2/SubCoding): adding subtitles with Python, flying a Tello drone with Python, a C game for non-majors in 3 days, algorithm practice.
+
 #### 🛠 Tech
 
 **Data** ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
