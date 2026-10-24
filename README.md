@@ -1,8 +1,8 @@
 ### Hi, I'm Jack Park 👋
 
-Software & DB engineer in Seoul. By day I build DBaaS on a cloud platform; on the side I make small macOS menu bar apps that each fix one annoying thing, and write about the tools I actually use.
+Software & DB engineer in Seoul. By day I build PostgreSQL DBaaS on a cloud platform; on the side I make small macOS menu bar apps that each fix one annoying thing, and write about the tools I actually use.
 
-클라우드 DBaaS를 만드는 소프트웨어·DB 엔지니어입니다. 퇴근 후에는 맥에서 불편한 것 하나를 고치는 작은 앱을 만들고, 직접 써 본 도구 이야기를 씁니다.
+클라우드 PostgreSQL DBaaS를 만드는 소프트웨어·DB 엔지니어입니다. 퇴근 후에는 맥에서 불편한 것 하나를 고치는 작은 앱을 만들고, 직접 써 본 도구 이야기를 씁니다.
 
 **Every app here:** free · open source · no network access · no analytics · menu bar only
 
@@ -21,7 +21,7 @@ Both are a few hundred lines of Swift you can read in one sitting, with measured
 
 | | |
 |---|---|
-| **Samsung SDS** · DBaaS Engineer<br><sub>2024.06 – present</sub> | OpenSearch & Elasticsearch DBaaS on Samsung Cloud Platform: automated provisioning, scaling and monitoring, control plane and platform architecture |
+| **Samsung SDS** · DBaaS Engineer<br><sub>2024.06 – present</sub> | DBaaS on Samsung Cloud Platform. Now building the PostgreSQL DBaaS (since 2026.06); before that OpenSearch & Elasticsearch DBaaS: automated provisioning, scaling and monitoring, control plane and platform architecture. Also backup DBaaS TA and DBA since 2025 |
 | **Samsung Card** · DBA<br><sub>2020.04 – 2024.05</sub> | Enterprise Oracle for financial systems: SQL tuning, logical design, storage optimization, high availability, monitoring |
 | **Samsung Card** · Backend Developer<br><sub>2019.03 – 2020.03</sub> | Java/Spring backend; in-house SW algorithm instructor (C++, Java); GDC project architect with CMC Global (Vietnam) |
 | **SCSA** 11th<br><sub>2018.07 – 2018.12</sub> | Samsung Software Convergence Academy; PM of a web & Android app (Spring, Android, AWS) |
