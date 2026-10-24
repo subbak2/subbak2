@@ -30,10 +30,10 @@ Both are a few hundred lines of Swift you can read in one sitting, with measured
 #### ✍️ Writing, video & links
 
 [![Tistory](https://img.shields.io/badge/Tistory-subbak2-EB531F?style=flat-square)](https://subbak2.tistory.com)
-[![Naver Blog](https://img.shields.io/badge/Naver%20Blog-subcoding-03C75A?style=flat-square&logo=naver&logoColor=white)](https://blog.naver.com/subcoding)
 [![YouTube](https://img.shields.io/badge/YouTube-SubCoding-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@SubCodingChannel)
 [![simplelife](https://img.shields.io/badge/simplelife.ai.kr-SubCoding-4A5568?style=flat-square)](https://simplelife.ai.kr/author/subcoding/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-subbak2-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subbak2/)
+[![Naver Blog](https://img.shields.io/badge/Naver%20Blog-subcoding-03C75A?style=flat-square&logo=naver&logoColor=white)](https://blog.naver.com/subcoding)
 
 Dev tools, AI tools, gear I paid for myself. No sponsorships.
 
