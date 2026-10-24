@@ -19,12 +19,16 @@ Both are a few hundred lines of Swift you can read in one sitting, with measured
 
 #### 💼 Experience
 
-| | |
+**Samsung SDS** · 2019.01 – present
+
+| Role | |
 |---|---|
-| **Samsung SDS** · DBaaS Engineer<br><sub>2024.06 – present</sub> | DBaaS on Samsung Cloud Platform. Now building the PostgreSQL DBaaS (since 2026.06); before that OpenSearch & Elasticsearch DBaaS: automated provisioning, scaling and monitoring, control plane and platform architecture. Also backup DBaaS TA and DBA since 2025 |
-| **Samsung Card** · DBA<br><sub>2020.04 – 2024.05</sub> | Enterprise Oracle for financial systems: SQL tuning, logical design, storage optimization, high availability, monitoring |
-| **Samsung Card** · Backend Developer<br><sub>2019.03 – 2020.03</sub> | Java/Spring backend; in-house SW algorithm instructor (C++, Java); GDC project architect with CMC Global (Vietnam) |
-| **SCSA** 11th<br><sub>2018.07 – 2018.12</sub> | Samsung Software Convergence Academy; PM of a web & Android app (Spring, Android, AWS) |
+| **DBaaS Engineer**<br><sub>2024.06 – present</sub> | DBaaS on Samsung Cloud Platform. Now building the PostgreSQL DBaaS (since 2026.06); before that OpenSearch & Elasticsearch DBaaS: automated provisioning, scaling and monitoring, control plane and platform architecture. Also backup DBaaS TA and DBA since 2025 |
+| **DBA**, on-site at Samsung Card<br><sub>2020.04 – 2024.05</sub> | Enterprise Oracle for the client's financial systems: SQL tuning, logical design, storage optimization, high availability, monitoring |
+| **Backend Developer**, on-site at Samsung Card<br><sub>2019.03 – 2020.03</sub> | Java/Spring backend for the client; in-house SW algorithm instructor (C++, Java); GDC project architect with CMC Global (Vietnam) |
+
+**SCSA** 11th, Samsung Software Convergence Academy · 2018.07 – 2018.12
+PM of a web & Android app (Spring, Android, AWS)
 
 #### ✍️ Writing, video & links
 
