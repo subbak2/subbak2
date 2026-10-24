@@ -55,3 +55,13 @@ Code from the videos: [**SubCoding**](https://github.com/subbak2/SubCoding): add
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+
+#### 🤖 Having fun with AI
+
+My side projects run on a small AI crew: **Claude** (Claude Code) writes and ships the code, **Gemini** does the research, and **Codex** gives a second-opinion review before anything touches real data. Both Mac apps above were built this way.
+
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-412991?style=flat-square)
+
+Exploring next: AI video and music with ![Higgsfield](https://img.shields.io/badge/Higgsfield-111111?style=flat-square) ![Kling](https://img.shields.io/badge/Kling-0A0A0A?style=flat-square) ![Suno](https://img.shields.io/badge/Suno-000000?style=flat-square)
